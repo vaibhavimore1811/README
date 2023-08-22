@@ -24,30 +24,30 @@ Android  PHP Developer
 * 🧠  I'm learning Ios Development
 
 ### About Me
-I am a passionate developer with experience in both Android and PHP development. I have a strong foundation in PHP CodeIgniter 3 framework and I'm currently expanding my skills by learning Laravel for web development. Additionally, I'm venturing into iOS app development to broaden my expertise in the mobile domain. I enjoy creating user-friendly and efficient applications.
+I have a strong knowledge of Android development, and I am also experienced in working with PHP and the CodeIgniter 3 framework. Currently, I am learning iOS development and the Laravel 9 PHP framework. I enjoy creating user-friendly and efficient applications.
 
 ### Skills
 
 <p align="left">
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-  <img src="android_icon.png" width="36" height="36" alt="Android" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="36" height="36" alt="Android" />
 </a>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="php_icon.png" width="36" height="36" alt="PHP" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/php-programming-language-icon.png" width="36" height="36" alt="PHP" />
 </a>
 
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="php_icon.png" width="36" height="36" alt="PHP" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="36" height="36" alt="HTML" />
 </a>
 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-  <img src="css_icon.png" width="36" height="36" alt="CSS" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" width="36" height="36" alt="CSS" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Application_programming_interface" target="_blank" rel="noreferrer">
-  <img src="api_icon.png" width="36" height="36" alt="API" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/api-file-icon.png" width="36" height="36" alt="API" />
 </a>
 
 <a href="https://www.json.org/" target="_blank" rel="noreferrer">
@@ -59,27 +59,27 @@ I am a passionate developer with experience in both Android and PHP development.
 </a>
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="java_icon.png" width="36" height="36" alt="Java" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/json-file-icon.png" width="36" height="36" alt="Java" />
 </a>
 
 <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
-  <img src="xml_icon.png" width="36" height="36" alt="XML" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/xml-code-icon.png" width="36" height="36" alt="XML" />
 </a>
 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="android_sdk_icon.png" width="36" height="36" alt="Android SDK" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/mobile-app-dev-icon.png" width="36" height="36" alt="Android SDK" />
 </a>
 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="kotlin_icon.png" width="36" height="36" alt="Kotlin" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="36" height="36" alt="Kotlin" />
 </a>
 
 <a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer">
-  <img src="ios_icon.png" width="36" height="36" alt="iOS" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-icon.png" width="36" height="36" alt="iOS" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Mobile_app_testing" target="_blank" rel="noreferrer">
-  <img src="app_testing_icon.png" width="36" height="36" alt="App Testing" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/mobile-app-icon.png" width="36" height="36" alt="App Testing" />
 </a>
 
 
@@ -93,7 +93,7 @@ I am a passionate developer with experience in both Android and PHP development.
  <a href="https://www.linkedin.com/in/vaibhavi-more-9774a1196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  
  <a href="mailto:vaibhavi.more297@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=fFbCvS8wxZFo&format=png" width="50" height="50" alt="Email" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" width="32" height="32" alt="Email" />
 </a>
  </p>
 
