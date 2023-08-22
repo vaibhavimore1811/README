@@ -51,23 +51,23 @@ I have a strong knowledge of Android development, and I am also experienced in w
 </a>
 
 <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-  <img src="json_icon.png" width="36" height="36" alt="JSON" />
+  <img src="https://www.svgrepo.com/show/374338/json.svg" width="36" height="36" alt="JSON" />
 </a>
 
 <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-  <img src="codeigniter_icon.png" width="36" height="36" alt="CodeIgniter 3" />
+  <img src="https://www.svgrepo.com/show/353579/codeigniter.svg" width="36" height="36" alt="Codeigniter 3" />
 </a>
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/json-file-icon.png" width="36" height="36" alt="Java" />
+  <img src="https://www.svgrepo.com/show/452234/java.svg" width="36" height="36" alt="Java" />
 </a>
 
 <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/xml-code-icon.png" width="36" height="36" alt="XML" />
+  <img src="https://www.svgrepo.com/show/375305/xml-document.svg" width="36" height="36" alt="XML" />
 </a>
 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/mobile-app-dev-icon.png" width="36" height="36" alt="Android SDK" />
+  <img src="https://www.svgrepo.com/show/452155/android.svg" width="36" height="36" alt="Android SDK" />
 </a>
 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
@@ -75,12 +75,10 @@ I have a strong knowledge of Android development, and I am also experienced in w
 </a>
 
 <a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-icon.png" width="36" height="36" alt="iOS" />
+  <img src="https://www.svgrepo.com/show/452233/ios.svg" width="36" height="36" alt="iOS" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Mobile_app_testing" target="_blank" rel="noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/mobile-app-icon.png" width="36" height="36" alt="App Testing" />
-</a>
+
 
 
 </p>
