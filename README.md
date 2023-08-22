@@ -93,7 +93,7 @@ I am a passionate developer with experience in both Android and PHP development.
  <a href="https://www.linkedin.com/in/vaibhavi-more-9774a1196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  
  <a href="mailto:vaibhavi.more297@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://icons8.com/icon/YbPqIO0gOrT3/email" width="32" height="32" alt="Email" />
+  <img src="https://img.icons8.com/?size=512&id=fFbCvS8wxZFo&format=png" width="32" height="32" alt="Email" />
 </a>
  </p>
 
