@@ -28,15 +28,9 @@ I am a passionate developer with experience in both Android and PHP development.
 
 ### Skills
 
-<p align="left">
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
   <img src="android_icon.png" width="36" height="36" alt="Android" />
 </a>
-
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="php_icon.png" width="36" height="36" alt="PHP" />
-</a>
-
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="php_icon.png" width="36" height="36" alt="PHP" />
@@ -46,41 +40,6 @@ I am a passionate developer with experience in both Android and PHP development.
   <img src="css_icon.png" width="36" height="36" alt="CSS" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Application_programming_interface" target="_blank" rel="noreferrer">
-  <img src="api_icon.png" width="36" height="36" alt="API" />
-</a>
-
-<a href="https://www.json.org/" target="_blank" rel="noreferrer">
-  <img src="json_icon.png" width="36" height="36" alt="JSON" />
-</a>
-
-<a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-  <img src="codeigniter_icon.png" width="36" height="36" alt="CodeIgniter 3" />
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="java_icon.png" width="36" height="36" alt="Java" />
-</a>
-
-<a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
-  <img src="xml_icon.png" width="36" height="36" alt="XML" />
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="android_sdk_icon.png" width="36" height="36" alt="Android SDK" />
-</a>
-
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="kotlin_icon.png" width="36" height="36" alt="Kotlin" />
-</a>
-
-<a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer">
-  <img src="ios_icon.png" width="36" height="36" alt="iOS" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Mobile_app_testing" target="_blank" rel="noreferrer">
-  <img src="app_testing_icon.png" width="36" height="36" alt="App Testing" />
-</a>
 
 
 </p>
